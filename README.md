@@ -5,7 +5,7 @@
 
 - Medium [https://medium.com/@tiwariankit496](https://medium.com/@tiwariankit496)
 
-- 💬 Ask me about **Flutter,Dart,JS,Html,Php,Java**
+- 💬 Ask me about **Flutter,Dart,JS,Html,Php,Java,Node.js**
 
 - 📫 How to reach me **tiwariankit496@gmail.com**
 
