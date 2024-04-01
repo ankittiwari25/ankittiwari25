@@ -1,15 +1,19 @@
 <h1 align="center">Hi 👋, I'm Ankit Tiwari</h1>
 <h3 align="center">A Passionate Full-Stack developer</h3>
 
-- 🌱 I’m currently learning **Laravel Framework,Node Js**
-
 - Medium [https://medium.com/@tiwariankit496](https://medium.com/@tiwariankit496)
 
-- 💬 Ask me about **Flutter,Dart,JS,Html,Php,Java,Node.js**
+- 💬 Ask me about **Flutter,Dart,JS,Html,Php,Java,Node.js,Kotlin**
 
 - 📫 How to reach me **tiwariankit496@gmail.com**
 
-- ### Checkout Medium Articles :loudspeaker: 
+- ### Checkout Medium Articles :loudspeaker:
+
+-- [<img align="left" alt="Ankit | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://medium.com/@im_AnkitTiwari/javascript-copy-techniques-exploring-shallow-and-deep-copies-43e49bd989d1)https://medium.com/@im_AnkitTiwari/javascript-copy-techniques-exploring-shallow-and-deep-copies-43e49bd989d1
+
+-- [<img align="left" alt="Ankit | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://medium.com/@im_AnkitTiwari/swaggerizing-your-node-js-rest-api-a-step-by-step-guide-267255bf8bbe)https://medium.com/@im_AnkitTiwari/swaggerizing-your-node-js-rest-api-a-step-by-step-guide-267255bf8bbe
+
+-- [<img align="left" alt="Ankit | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://medium.com/@im_AnkitTiwari/solid-principles-a-guide-to-writing-maintainable-code-2e2cdb32e937)https://medium.com/@im_AnkitTiwari/solid-principles-a-guide-to-writing-maintainable-code-2e2cdb32e937
 
 [<img align="left" alt="Ankit | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://medium.com/@tiwariankit496/a-deep-dive-into-flutters-do-s-and-don-ts-691655164ecf)https://medium.com/@tiwariankit496/a-deep-dive-into-flutters-do-s-and-don-ts-691655164ecf
 
