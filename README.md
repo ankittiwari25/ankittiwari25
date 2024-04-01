@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit Tiwari</h1>
-<h3 align="center">A Passionate Full-Stack developer</h3>
+<h3 align="center">A Passionate Full-Stack developer [Android || Flutter || Node.js]</h3>
 
 - Medium [https://medium.com/@tiwariankit496](https://medium.com/@tiwariankit496)
 
